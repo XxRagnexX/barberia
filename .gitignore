@@ -1,0 +1,11 @@
+# Carpeta generada al compilar (no se sube)
+target/
+
+# Archivos de los editores
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.DS_Store
